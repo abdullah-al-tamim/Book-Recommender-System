@@ -1,2 +1,2 @@
 # Book-Recommender-System
-This is a project for my Big Data Analytics course.
+This is a project for my Big Data Analytics course with two main features. The first feature takes a user ID as input and suggests the top 10 recommendable books based on similar user profiles. The second function takes a user ID and an ISBN as input, predicting the probable rating of that book by the user. My next goal is to extend the functionality to make recommendations by taking an ISBN as input and creating a user-friendly interface (UI). Here is the Dataset Link https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset/data
